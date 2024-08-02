@@ -38,3 +38,8 @@ https://api.nasa.gov/
 - **Photo of the Day**:GET  https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
 - **Rover Photos**: https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&page=2&api_key=DEMO_KEY
 - **Near-Earth Objects**: GET https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY
+
+## ShowCase
+![1.png](./docs/pictures/1.png)
+
+![2.png](./docs/pictures/2.png)
